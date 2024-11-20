@@ -7,6 +7,10 @@ In this repository, I want to list out different items.
 - This is my **third** item
 
   This is an ordered list:
-  1. Item 1
-  2. item 2
-  3. Item 3
+  1. *First* item
+  2. *Second* item
+  3. *Third* item
+
+  ---
+
+  
