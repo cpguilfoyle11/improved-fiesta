@@ -1,5 +1,5 @@
 # improved-fiesta
-## This is my first repository 
+## This is the first branch of my repository
 
 In this repository, I want to list out different items. 
 - This is my **first** item
